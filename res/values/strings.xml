@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">NK Example</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">NK Example</string>
+    <string name="button_nk_connect">Zaloguj si z NK</string>
+    <string name="button_show_token">Pokaż accessToken</string>
+    <string name="button_clear_cookies">Wyczyść ciasteczka</string>
+    <string name="button_get_user_data">Pobierz dane użytkownika</string>
+
+</resources>
