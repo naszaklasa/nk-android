@@ -29,3 +29,5 @@ Uruchomienie
 ------------
 
 Odpalmy aplikację, klikamy przycisk "Zaloguj się z NK" - zaloguj się używając danych z nk.pl, udziel pozwoleń dla aplikacji. Kliknij "Pobierz dane", aby pobrać dane.
+
+![Pan Gąbka vs Android](http://developers.nk.pl/wp-content/uploads/PanGabka_Android.png)
